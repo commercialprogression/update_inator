@@ -1,0 +1,18 @@
+<?php
+
+/**
+ * @file
+ * Insert all of your update scripts into this file.
+ *
+ * Update Script usage:
+ * function update_script_time_update_N() {}.
+ *
+ * Handy snippets:
+ *
+ * Enable a module:
+ * module_enable(array(
+ *   'module_name',
+ *   'module_name',
+ *   ));
+ */
+
