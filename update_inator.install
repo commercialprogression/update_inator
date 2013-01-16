@@ -5,7 +5,7 @@
  * Insert all of your update scripts into this file.
  *
  * Update Script usage:
- * function update_script_time_update_N() {}.
+ * function update_inator_update_N() {}.
  *
  * Handy snippets:
  *
